@@ -1,0 +1,1 @@
+FormatCommand.main()
