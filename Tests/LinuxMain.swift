@@ -1,7 +1,7 @@
 import XCTest
 
-import yaml_formatTests
+import YamlFormatTests
 
 var tests = [XCTestCaseEntry]()
-tests += yaml_formatTests.allTests()
+tests += YamlFormatTests.allTests()
 XCTMain(tests)
